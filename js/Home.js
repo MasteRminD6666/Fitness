@@ -77,5 +77,5 @@ _INTERVAL_VAL = setInterval(Type, 100);
 
 let btnElment = document.querySelector('button');
 btnElment.addEventListener('click', function () {
-  window.location.href = "/html/Products.html";
+  window.location.href = "/Fitness/html/Products.html";
 })
